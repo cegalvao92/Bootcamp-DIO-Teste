@@ -18,4 +18,5 @@ public class PrimeiroPrograma {
 
 class Livro {
 	public String livro;
+	public Integer numPaginas;
 }
